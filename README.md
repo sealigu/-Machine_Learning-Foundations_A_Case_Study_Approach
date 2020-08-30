@@ -23,13 +23,13 @@ In this course, you will get hands-on experience with machine learning from a se
 - Evaluating regression models
 - Summary of regression
 - pip install matplotlib
-- Doing week 2 exercise: [Predicting House Prices]()
+- Doing week 2 exercise: [Predicting House Prices](https://github.com/sealigu/-Machine_Learning-Foundations_A_Case_Study_Approach/blob/master/Exercise/Week2/Predicting_house_prices.ipynb)
 
 ## Week 3 - Classification: Analyzing Sentiment of Reviews
 - Classification modeling
 - Evaluating calssification models
 - Summary of classification
-- Doing week 3 exercise: [Analyzing sentiment](https://github.com/sealigu/-Machine_Learning-Foundations_A_Case_Study_Approach/blob/master/Exercise/Week2/Predicting_house_prices.ipynb)
+- Doing week 3 exercise: [Analyzing sentiment]()
 
 ## Week 4 - 
 - Doing week 4 exercise: []()
