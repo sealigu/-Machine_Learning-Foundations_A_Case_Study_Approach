@@ -7,7 +7,7 @@ In this course, you will get hands-on experience with machine learning from a se
 ## Week 1 - Introduction
 - Getting started with Python, Jupyter Notebook & Turi Create
 - Getting started with SFrames for data engineering and analysis
-- Doing week 1 exercies: [Getting started with SFrames assignment]()
+- Doing week 1 exercies: [Getting started with SFrames assignment](https://github.com/sealigu/-Machine_Learning-Foundations_A_Case_Study_Approach/blob/master/Exercise/Week1/week1_SFrames.ipynb)
 - Download WSL on Windows10 for running Jupyter Notebook and Turi Create
 
 ## Week 2 - Regression
