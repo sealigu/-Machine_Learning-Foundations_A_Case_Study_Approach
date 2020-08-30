@@ -14,4 +14,5 @@ In this course, you will get hands-on experience with machine learning from a se
 - Linear regression modeling
 - Evaluating regression models
 - Summary of regression
+- pip install matplotlib
 - Doing week 2 exercise: [Predicting House Prices]()
