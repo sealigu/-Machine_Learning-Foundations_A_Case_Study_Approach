@@ -31,8 +31,11 @@ In this course, you will get hands-on experience with machine learning from a se
 - Summary of classification
 - Doing week 3 exercise: [Analyzing Sentiment](https://github.com/sealigu/-Machine_Learning-Foundations_A_Case_Study_Approach/blob/master/Exercise/Week3/week3_classifier.ipynb)
 
-## Week 4 - 
-- Doing week 4 exercise: []()
+## Week 4 - Document retrieval
+- Algorithms for retrieval and measuring similarity of documents
+- Clustering models and algorithms
+- Summary of clustering and similarity
+- Doing week 4 exercise: [Retrieving Wikipedia Articles]()
 
 ## Week 5 -
 - Doing week 5 exercise: []()
