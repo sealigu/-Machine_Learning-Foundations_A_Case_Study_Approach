@@ -35,7 +35,7 @@ In this course, you will get hands-on experience with machine learning from a se
 - Algorithms for retrieval and measuring similarity of documents
 - Clustering models and algorithms
 - Summary of clustering and similarity
-- Doing week 4 exercise: [Retrieving Wikipedia Articles]()
+- Doing week 4 exercise: [Retrieving Wikipedia Articles](https://github.com/sealigu/-Machine_Learning-Foundations_A_Case_Study_Approach/blob/master/Exercise/Week4/Retrieving_Wikipedia-Articles.ipynb)
 
 ## Week 5 - Recommender Systems Overview
 - About recommender systems
