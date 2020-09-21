@@ -43,7 +43,11 @@ In this course, you will get hands-on experience with machine learning from a se
 - Matrix factorization
 - Performance metrics for recommender systems
 - Summary for recommender systems
-- Doing week 5 exercise: [Recommending Songs System]()
+- Doing week 5 exercise: [Recommending Songs System](https://github.com/sealigu/-Machine_Learning-Foundations_A_Case_Study_Approach/blob/master/Exercise/Week5/Recommending%20Songs.ipynb)
 
-## Week 6 - 
+## Week 6 - Deep Learning
+- Neural networks: Learning very non-linear features
+- Deep learning & deep features
+- Summary of deep learning
+- Deep features for image classification
 - Doing week 6 exercise: [Deep Features for Image Retrieval]()
