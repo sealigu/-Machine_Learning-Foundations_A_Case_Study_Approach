@@ -50,4 +50,4 @@ In this course, you will get hands-on experience with machine learning from a se
 - Deep learning & deep features
 - Summary of deep learning
 - Deep features for image classification
-- Doing week 6 exercise: [Deep Features for Image Retrieval]()
+- Doing week 6 exercise: [Deep Features for Image Retrieval](https://github.com/sealigu/-Machine_Learning-Foundations_A_Case_Study_Approach/blob/master/Exercise/Week6/Deep_Feature_for_Image_Retrieval.ipynb)
